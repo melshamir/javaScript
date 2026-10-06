@@ -101,5 +101,5 @@
 // const movie = movies.find(movie => movie.id === 12);
 // console.log(movie.title);
 // החלפתי את filter בfind.
-
+console.log("hello git");
 
